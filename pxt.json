@@ -1,6 +1,6 @@
 {
     "name": "Coding-AG",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Tutorials für die Coding-AG (micro:bit)",
     "dependencies": {
         "core": "*",
@@ -10,7 +10,12 @@
     "files": [
         "main.ts",
         "README.md",
-        "schere-stein-papier.md"
+        "schere-stein-papier.md",
+        "heisse-kartoffel.md",
+        "reaktionstest.md",
+        "fang-den-punkt.md",
+        "meteoritenregen.md",
+        "funk-duell.md"
     ],
     "supportedTargets": [
         "microbit"
