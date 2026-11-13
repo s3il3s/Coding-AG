@@ -1,0 +1,19 @@
+{
+    "name": "Coding-AG",
+    "version": "0.0.1",
+    "description": "Tutorials für die Coding-AG (micro:bit)",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "schere-stein-papier.md"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
