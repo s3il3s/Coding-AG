@@ -22,9 +22,8 @@ radio.setGroup(1)
 let istSchatz = false
 ```
 
-~hint Wahr oder falsch? 💡
+**Wahr oder falsch? 💡**
 Eine Variable kann nicht nur Zahlen oder Texte speichern, sondern auch **wahr** oder **falsch** – wie ein Lichtschalter: an oder aus.
-hint~
 
 ## Zum Schatz werden
 
@@ -103,10 +102,9 @@ basic.forever(function () {
 })
 ```
 
-~hint Warum plus 100? 💡
+**Warum plus 100? 💡**
 Die Signalstärke ist eine **negative** Zahl: etwa **-95**, wenn der Schatz weit weg ist, und etwa **-42**, wenn er direkt daneben liegt.
 Mit **+ 100** wird daraus eine Zahl zwischen **5** und **58** – genau richtig für das Balkendiagramm bis **60**.
-hint~
 
 ## Gefunden!
 

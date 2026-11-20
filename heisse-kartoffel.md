@@ -62,9 +62,8 @@ input.onButtonPressed(Button.A, function () {
 })
 ```
 
-~hint Was bedeutet das? 💡
+**Was bedeutet das? 💡**
 Die Kartoffel explodiert nach **5 bis 15 Sekunden**. Das ist jedes Mal anders – niemand kann es wissen!
-hint~
 
 ## Die Schleife
 

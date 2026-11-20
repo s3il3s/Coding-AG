@@ -17,9 +17,8 @@ Alle micro:bits in deiner Funkgruppe sehen dann, **was** du geschrieben hast –
 radio.setGroup(1)
 ```
 
-~hint Wichtig! 💡
+**Wichtig! 💡**
 Alle, die sich Nachrichten schicken wollen, brauchen **dieselbe** Funkgruppe. Fragt eure Lehrkraft, welche Zahl ihr nehmen sollt.
-hint~
 
 ## Eine Nachricht senden
 
@@ -99,9 +98,8 @@ nachrichten = ["HALLO", "JA", "NEIN", "KOMM HER", "PAUSE?"]
 nummer = 0
 ```
 
-~hint Warum „≥ Länge“? 💡
+**Warum „≥ Länge“? 💡**
 Die Liste hat **5** Nachrichten an den Stellen **0 bis 4**. Kommt ``nummer`` bei **5** an, gibt es dort keine Nachricht mehr – also zurück zur **0**!
-hint~
 
 ## Wer schreibt?
 
@@ -136,9 +134,8 @@ nachrichten = ["HALLO", "JA", "NEIN", "KOMM HER", "PAUSE?"]
 nummer = 0
 ```
 
-~hint Achtung, nicht zu lang! ⚠️
+**Achtung, nicht zu lang! ⚠️**
 Eine Funknachricht darf höchstens **19 Zeichen** lang sein. Wähle also einen kurzen Namen und kurze Nachrichten – sonst wird das Ende abgeschnitten.
-hint~
 
 ## Ausprobieren @showdialog
 

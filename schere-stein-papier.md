@@ -49,10 +49,9 @@ input.onGesture(Gesture.Shake, function () {
 })
 ```
 
-~hint Warum 1 bis 3? 💡
+**Warum 1 bis 3? 💡**
 Es gibt drei Möglichkeiten: Schere, Stein und Papier. Jede bekommt eine Zahl:
 **1 = Papier**, **2 = Stein**, **3 = Schere**.
-hint~
 
 ## Wenn die Zahl 1 ist: Papier
 
@@ -152,9 +151,8 @@ input.onGesture(Gesture.Shake, function () {
 })
 ```
 
-~hint Eigene Bilder 🎨
+**Eigene Bilder 🎨**
 Du musst die Bilder nicht genau so malen. Denk dir deine eigene Schere, deinen eigenen Stein und dein eigenes Papier aus!
-hint~
 
 ## Ausprobieren im Simulator @showdialog
 
@@ -186,9 +184,8 @@ input.onButtonPressed(Button.A, function () {
 })
 ```
 
-~hint So wird gespielt 🏆
+**So wird gespielt 🏆**
 Hast du eine Runde gewonnen? Dann drücke **Knopf A**. Der micro:bit zählt einen Punkt dazu und zeigt deinen Punktestand an.
-hint~
 
 ## Geschafft! @showdialog
 

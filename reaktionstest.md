@@ -37,9 +37,8 @@ input.onButtonPressed(Button.A, function () {
 })
 ```
 
-~hint Warum zufällig? 💡
+**Warum zufällig? 💡**
 1000 bis 5000 Millisekunden sind **1 bis 5 Sekunden**. Weil es jedes Mal anders ist, kannst du nicht einfach mitzählen.
-hint~
 
 ## Die Stoppuhr starten
 

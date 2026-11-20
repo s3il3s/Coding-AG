@@ -21,9 +21,8 @@ Dein Raumschiff steht ganz unten in der Mitte.
 let schiff = game.createSprite(2, 4)
 ```
 
-~hint Warum y: 4? 💡
+**Warum y: 4? 💡**
 **y: 0** ist die oberste Zeile, **y: 4** die unterste. Dein Schiff steht also ganz unten.
-hint~
 
 ## Steuern mit A und B
 

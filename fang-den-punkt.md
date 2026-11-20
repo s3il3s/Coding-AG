@@ -22,10 +22,9 @@ Ein **Sprite** ist ein einzelnes Licht, das sich bewegen kann – wie eine Spiel
 let punkt = game.createSprite(2, 2)
 ```
 
-~hint Was bedeuten x und y? 💡
+**Was bedeuten x und y? 💡**
 Der Bildschirm hat 5 × 5 Lichter. **x** ist die Spalte von links (0 bis 4), **y** die Zeile von oben (0 bis 4).
 **x: 2, y: 2** ist genau die **Mitte**.
-hint~
 
 ## Hin und her
 

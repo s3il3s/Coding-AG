@@ -43,9 +43,8 @@ basic.forever(function () {
 })
 ```
 
-~hint Warum 200? 💡
+**Warum 200? 💡**
 Ganz gerade liegt der Wert bei ungefähr **0**. Mit **200** muss man den micro:bit ein bisschen kippen – sonst würde der Punkt schon beim kleinsten Wackeln losflitzen.
-hint~
 
 ## Nach vorne und hinten kippen
 
@@ -163,9 +162,8 @@ basic.forever(function () {
 })
 ```
 
-~hint Was passiert am Ende? ⏱️
+**Was passiert am Ende? ⏱️**
 Nach 30 Sekunden ist das Spiel vorbei und der micro:bit zeigt deinen **Spielstand** an.
-hint~
 
 ## Ausprobieren @showdialog
 

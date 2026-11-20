@@ -42,9 +42,8 @@ input.onGesture(Gesture.Shake, function () {
 let folge: number[] = []
 ```
 
-~hint Warum schütteln? 💡
+**Warum schütteln? 💡**
 Schütteln **startet** das Spiel: Die Liste wird geleert und die erste Runde beginnt.
-hint~
 
 ## Die Pfeile zeigen
 
@@ -76,9 +75,8 @@ input.onGesture(Gesture.Shake, function () {
 let folge: number[] = []
 ```
 
-~hint Warum die kurze Pause mit leerem Bildschirm? 💡
+**Warum die kurze Pause mit leerem Bildschirm? 💡**
 Kommen zwei gleiche Pfeile hintereinander, sieht man sonst nicht, dass es **zwei** waren!
-hint~
 
 ## Eine Funktion mit Parameter
 
@@ -129,9 +127,8 @@ let position = 0
 let folge: number[] = []
 ```
 
-~hint Wie zählt eine Liste? 💡
+**Wie zählt eine Liste? 💡**
 Computer fangen bei **0** an zu zählen! Der **erste** Pfeil steht an Stelle **0**, der zweite an Stelle **1** und so weiter.
-hint~
 
 ## Runde geschafft!
 

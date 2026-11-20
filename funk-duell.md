@@ -21,10 +21,9 @@ Damit sich nur eure zwei micro:bits unterhalten, braucht ihr eine **eigene Funkg
 radio.setGroup(1)
 ```
 
-~hint Wichtig in der AG! 💡
+**Wichtig in der AG! 💡**
 Jedes Paar braucht eine **andere Zahl** (zum Beispiel Team 1, Team 2, Team 3 …). Sonst funken alle durcheinander!
 Beide micro:bits eines Paares brauchen aber **dieselbe** Zahl.
-hint~
 
 ## Schütteln und senden
 
@@ -177,9 +176,8 @@ radio.onReceivedNumber(function (receivedNumber) {
 })
 ```
 
-~hint Tipp: Zusammenbauen 🧩
+**Tipp: Zusammenbauen 🧩**
 Baue zuerst **einen** ``||logic:und||``-Block fertig. Dann rechtsklick → **Duplizieren** und nur die Zahlen ändern. Das spart viel Zeit!
-hint~
 
 ## Ausprobieren @showdialog
 

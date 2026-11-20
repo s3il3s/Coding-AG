@@ -169,9 +169,8 @@ let geheim = 0
 neuesSpiel()
 ```
 
-~hint Warum Funktionen? 💡
+**Warum Funktionen? 💡**
 Jetzt steht „neues Spiel“ nur **einmal** im Programm, wird aber an **zwei** Stellen benutzt. Willst du etwas ändern (z. B. Zahlen bis 20), musst du es nur an **einer** Stelle tun!
-hint~
 
 ## Versuche zählen
 
