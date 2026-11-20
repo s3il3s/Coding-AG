@@ -1,6 +1,6 @@
 {
     "name": "Coding-AG",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Tutorials für die Coding-AG (micro:bit)",
     "dependencies": {
         "core": "*",
@@ -15,7 +15,12 @@
         "reaktionstest.md",
         "fang-den-punkt.md",
         "meteoritenregen.md",
-        "funk-duell.md"
+        "funk-duell.md",
+        "kipp-sammler.md",
+        "zahlenraten.md",
+        "merk-meister.md",
+        "geheimbotschaft.md",
+        "schatzsuche.md"
     ],
     "supportedTargets": [
         "microbit"
